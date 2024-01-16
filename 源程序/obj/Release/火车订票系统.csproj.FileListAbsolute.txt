@@ -1,0 +1,17 @@
+F:\雷皓兰潘玥应数\源程序\bin\Release\CSharpforSQL课设.exe.config
+F:\雷皓兰潘玥应数\源程序\bin\Release\CSharpforSQL课设.exe
+F:\雷皓兰潘玥应数\源程序\bin\Release\CSharpforSQL课设.pdb
+F:\雷皓兰潘玥应数\源程序\obj\Release\火车订票系统.csproj.AssemblyReference.cache
+F:\雷皓兰潘玥应数\源程序\obj\Release\火车订票系统.csproj.SuggestedBindingRedirects.cache
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.增删管理员.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.注册及信息界面.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.添加车次.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.用户界面.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.登录.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.Properties.Resources.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.游客界面.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpSQL课设.管理员界面.resources
+F:\雷皓兰潘玥应数\源程序\obj\Release\火车订票系统.csproj.GenerateResource.cache
+F:\雷皓兰潘玥应数\源程序\obj\Release\火车订票系统.csproj.CoreCompileInputs.cache
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpforSQL课设.exe
+F:\雷皓兰潘玥应数\源程序\obj\Release\CSharpforSQL课设.pdb
